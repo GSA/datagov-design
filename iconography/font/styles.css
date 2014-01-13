@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "datagov-icons";
+  src:url("fonts/datagov-icons.eot");
+  src:url("fonts/datagov-icons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/datagov-icons.woff") format("woff"),
+    url("fonts/datagov-icons.ttf") format("truetype"),
+    url("fonts/datagov-icons.svg#datagov-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "datagov-icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="datagov-"]:before,
+[class*=" datagov-"]:before {
+  font-family: "datagov-icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.datagov-topic-business:before {
+  content: "\e000";
+}
+.datagov-topic-cities:before {
+  content: "\e001";
+}
+.datagov-topic-climate:before {
+  content: "\e002";
+}
+.datagov-topic-consumer:before {
+  content: "\e003";
+}
+.datagov-topic-counties:before {
+  content: "\e004";
+}
+.datagov-topic-developers:before {
+  content: "\e005";
+}
+.datagov-topic-development:before {
+  content: "\e006";
+}
+.datagov-topic-education:before {
+  content: "\e007";
+}
+.datagov-topic-energy:before {
+  content: "\e008";
+}
+.datagov-topic-ethics:before {
+  content: "\e009";
+}
+.datagov-topic-finance:before {
+  content: "\e00a";
+}
+.datagov-topic-food:before {
+  content: "\e00b";
+}
+.datagov-topic-geospatial:before {
+  content: "\e00c";
+}
+.datagov-topic-impact:before {
+  content: "\e00d";
+}
+.datagov-topic-jobs-and-skills:before {
+  content: "\e00e";
+}
+.datagov-topic-law:before {
+  content: "\e00f";
+}
+.datagov-topic-manufacturing:before {
+  content: "\e010";
+}
+.datagov-topic-ocean:before {
+  content: "\e011";
+}
+.datagov-topic-research:before {
+  content: "\e012";
+}
+.datagov-topic-safety:before {
+  content: "\e013";
+}
+.datagov-topic-states:before {
+  content: "\e014";
+}
+.datagov-topic-weather:before {
+  content: "\e015";
+}
+.datagov-topic-health:before {
+  content: "\e016";
+}
