@@ -31,3 +31,11 @@ Many of these icons are derived from the [Noun Project](http://thenounproject.co
 * City - [Designed by Juan Pablo Bravo](http://thenounproject.com/term/city/17945/)
 * Government Office - [Designed by Pipe Rosas Licht](http://thenounproject.com/term/government-office/17131/)
 * Explosion - [Designed by Renee Ramsey-Passmore](http://thenounproject.com/term/explosion/2348/)
+
+The ecosystems icon combines the following:
+
+* Mountains - [Designed by Andrew J. Young](http://thenounproject.com/term/mountains/15616/)
+* Pine Tree - [Designed by Humberto Pornaro](http://thenounproject.com/term/tree/7616/)
+* Tree - [Designed by Shane Herzog](http://thenounproject.com/term/tree/16017/)
+* Rain - [Designed by Alex Valdivia](http://thenounproject.com/term/rain/16754/)
+

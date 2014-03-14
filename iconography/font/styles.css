@@ -77,33 +77,36 @@
 .datagov-topic-geospatial:before {
   content: "\e00c";
 }
-.datagov-topic-impact:before {
+.datagov-topic-health:before {
   content: "\e00d";
 }
-.datagov-topic-jobs-and-skills:before {
+.datagov-topic-impact:before {
   content: "\e00e";
 }
-.datagov-topic-law:before {
+.datagov-topic-jobs-and-skills:before {
   content: "\e00f";
 }
-.datagov-topic-manufacturing:before {
+.datagov-topic-law:before {
   content: "\e010";
 }
-.datagov-topic-ocean:before {
+.datagov-topic-manufacturing:before {
   content: "\e011";
 }
-.datagov-topic-research:before {
+.datagov-topic-ocean:before {
   content: "\e012";
 }
-.datagov-topic-safety:before {
+.datagov-topic-research:before {
   content: "\e013";
 }
-.datagov-topic-states:before {
+.datagov-topic-safety:before {
   content: "\e014";
 }
-.datagov-topic-weather:before {
+.datagov-topic-states:before {
   content: "\e015";
 }
-.datagov-topic-health:before {
+.datagov-topic-weather:before {
   content: "\e016";
+}
+.datagov-topic-ecosystems:before {
+  content: "\e017";
 }
